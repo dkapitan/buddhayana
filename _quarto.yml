@@ -6,13 +6,18 @@ website:
   sidebar:
     logo: /images/green-buddhist-bodhi-leaf-removebg-preview.png
     style: docked  
+    search: true
     collapse-level: 1
     background: light
-  # navbar:
-  #   left:
-  #     - href: index.qmd
-  #       text: Home
-  #     - about.qmd
+    contents:
+      - section: Four Dharmas of Gampopa
+        href: four-dharmas-gampopa/index.qmd
+        contents:
+          - four-dharmas-gampopa/mind-one-with-dharma.qmd
+          - four-dharmas-gampopa/dharma-progress-along-path.qmd
+          - four-dharmas-gampopa/path-clarify-confusion.qmd
+          - four-dharmas-gampopa/confusion-dawn-as-wisdom.qmd
+      - about.qmd
 format:
   html:
     toc: true
@@ -25,6 +30,8 @@ format:
     css: styles.css
 reference-location: margin
 citation-location: margin
+filters:
+  - nutshell
 
 
 

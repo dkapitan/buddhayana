@@ -1,0 +1,11 @@
+typography:
+  fonts:
+    - family: PT Serif
+      source: google
+    - family: PT Sans
+      source: google
+    - family: PT Mono
+      source: google
+  headings: PT Sans
+  base: PT Serif
+  monospace: PT Mono
