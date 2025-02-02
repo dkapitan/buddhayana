@@ -19,10 +19,11 @@ website:
           - four-dharmas-gampopa/confusion-dawn-as-wisdom.qmd
       - about.qmd
 format:
-  html:
+  html:  
     toc: true
-    toc-location: left
+    toc-location: right
     grid:
+      sidebar-width: 350px
       margin-width: 350px
     theme:
       - sandstone
