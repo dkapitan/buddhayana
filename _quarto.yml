@@ -17,6 +17,7 @@ website:
           - four-dharmas-gampopa/dharma-progress-along-path.qmd
           - four-dharmas-gampopa/path-clarify-confusion.qmd
           - four-dharmas-gampopa/confusion-dawn-as-wisdom.qmd
+      - sutras.qmd
       - about.qmd
 format:
   html:  
@@ -29,6 +30,7 @@ format:
       - sandstone
       - gampopa.scss
     css: styles.css
+    link-external-newwindow: true
 reference-location: margin
 citation-location: margin
 filters:

@@ -1,0 +1,24 @@
+---
+title: Selected sutras
+description: |
+    The Jewel Ornament of Precious Liberation contains many references to specific verses in the sutras. This page contains links to translations of these sutras.
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Kangyur (Canonical Scriptures)
+
+- [Collection of Aphorisms. _Udānavarga_](https://www2.hf.uio.no/polyglotta/index.php?page=fulltext&vid=71&view=fulltext)
+- [The Stem Array. _Gaṇḍa­vyūha_](https://84000.co/translation/toh44-45)
+- [Unraveling the Intent. _Saṃdhi­nirmocana_](https://84000.co/translation/toh106)
+- [Lotus Sutra. _Saddharma­puṇḍarīka_](https://84000.co/translation/toh113)
+
+:::
+
+::: {.column width="50%"}
+### Tengyur (Canonical Treatises)
+
+- [Letter to a Friend](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/letter-to-a-friend)
+:::
+::::
+
