@@ -25,6 +25,7 @@ listing:
         - gampopa/index.qmd
         - sutras.qmd
         - xinxinming.qmd
+        - indonesia.qmd
         
 
 ---
