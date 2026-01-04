@@ -23,7 +23,7 @@ format:
 
 # Preface
 
-[Master Sheng-yen](https://en.wikipedia.org/wiki/Sheng-yen) is a renowned teacher of Ch'an (Zen) Buddhism. At the age of 13, he left his home near Shanghai to become a monk. During the period of Communist unrest, he went to southern Taiwan and spent six years in solitary retreat. Later, he continued his formal study, earning a doctorate in Buddhist Literature from Rissho University in Tokyo. He has received transmission in the two major branches of Ch'an: the Lin-chi (Rinzai) and Ts'ao-tung (Soto) schools. He now divides his time between New York, where he is the Resident Teacher at the Ch'an Meditation Center he Founded, and Taipei, where he is the abbot of two monasteries.
+[:Master Sheng-yen](https://en.wikipedia.org/wiki/Sheng-yen) is a renowned teacher of Ch'an (Zen) Buddhism. At the age of 13, he left his home near Shanghai to become a monk. During the period of Communist unrest, he went to southern Taiwan and spent six years in solitary retreat. Later, he continued his formal study, earning a doctorate in Buddhist Literature from Rissho University in Tokyo. He has received transmission in the two major branches of Ch'an: the Lin-chi (Rinzai) and Ts'ao-tung (Soto) schools. He now divides his time between New York, where he is the Resident Teacher at the Ch'an Meditation Center he Founded, and Taipei, where he is the abbot of two monasteries.
   
 Master Sheng-yen offers a guide to Ch'an practice based on the poem *Faith in Mind*. His words are transcribed from lectures given during a series of retreats spanning several years.
   
@@ -996,7 +996,3 @@ During the course of practice, we employ the use of words to guide us. But when 
 Once a monk asked Hsu-Yun, "Is there time in samadhi?" Hsu-Yun answered, "If there is time in samadhi, it is not samadhi." The monk asked, "In that case, can you say there is no time in samadhi?" Hsu-Yun said, "If there is no time in samadhi, where is the person?" In samadhi the mind is holding to one thought, so there is no awareness of time. But the meditator is still in the present moment, not in the past or the future. However, if you go one step further into no mind, you cannot even be in the present. The present can only exist in the mind, in relation to the past and the future.
 
 [^17]: trikaya: (Sanskrit, "threebodies"). Mahayana doctrine of the tripartite bodies of the Buddha: (1) nirmanakaya, the transformation body, manifesting as a human being, as in Sakyamuni; (2) sambhogakaya, the bliss body of the venerated Buddhas, experienced only by enlightened bodhisattvas; (3) dharmakaya, the supreme body of all the transcendent Buddhas.
-
-## Attribution
-
-The original text was obtained from [Terebess Asia Online](https://terebess.hu/english/hsin3.html), last accessed January 4th 2026.
