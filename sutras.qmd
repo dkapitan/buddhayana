@@ -2,7 +2,7 @@
 title: Selected sutras
 description: |
     The Jewel Ornament of Precious Liberation contains many references to specific verses in the sutras. This page contains links to translations of these sutras.
-image: /images/sutra.png
+image: /images/sutra.jpg
 ---
 
 :::: {.columns}
