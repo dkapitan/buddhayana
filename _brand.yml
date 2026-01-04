@@ -1,11 +1,25 @@
 typography:
   fonts:
-    - family: PT Serif
-      source: google
+    - family: ET Book
+      source: file
+      files:
+        - path: fonts/et-book-roman-line-figures.woff
+          weight: 400
+          style: normal
+        - path: fonts/et-book-display-italic-old-style-figures.woff
+          weight: 400
+          style: italic
+        - path: fonts/et-book-bold-line-figures.woff
+          weight: 700
+          style: normal
     - family: PT Sans
       source: google
     - family: PT Mono
       source: google
-  headings: PT Sans
-  base: PT Serif
-  monospace: PT Mono
+  base: ET Book
+  headings: ET Book
+  monospace-inline:
+    family: PT Mono
+    color: "#800000"
+color:
+  primary: "#800000"

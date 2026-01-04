@@ -3,20 +3,30 @@ project:
 
 website:
   title: "Buddhayana"
+  # navbar:
+  #   right:
+  #       - text: "Gampopa"
+  #         href: gampopa/index.qmd
+  #         menu:
+  #           - gampopa/mind-one-with-dharma.qmd
+  #           - gampopa/dharma-progress-along-path.qmd
+  #           - gampopa/path-clarify-confusion.qmd
+  #           - gampopa/confusion-dawn-as-wisdom.qmd
+  #       - xinxinming.qmd
   sidebar:
-    logo: /images/green-buddhist-bodhi-leaf-removebg-preview.png
-    style: docked  
+    logo: logo.png
+    style: floating
     search: true
     collapse-level: 1
-    background: light
+    background: white
     contents:
       - section: Four Dharmas of Gampopa
-        href: four-dharmas-gampopa/index.qmd
+        href: gampopa/index.qmd
         contents:
-          - four-dharmas-gampopa/mind-one-with-dharma.qmd
-          - four-dharmas-gampopa/dharma-progress-along-path.qmd
-          - four-dharmas-gampopa/path-clarify-confusion.qmd
-          - four-dharmas-gampopa/confusion-dawn-as-wisdom.qmd
+          - gampopa/mind-one-with-dharma.qmd
+          - gampopa/dharma-progress-along-path.qmd
+          - gampopa/path-clarify-confusion.qmd
+          - gampopa/confusion-dawn-as-wisdom.qmd
       - xinxinming.qmd
       - sutras.qmd
       - about.qmd
@@ -27,10 +37,6 @@ format:
     grid:
       sidebar-width: 350px
       margin-width: 350px
-    theme:
-      - sandstone
-      - gampopa.scss
-    css: styles.css
     link-external-newwindow: true
 reference-location: margin
 citation-location: margin

@@ -2,22 +2,15 @@
 title: " Faith in Mind"
 shorttitle: Faith in Mind
 subtitle: 信心銘 Xinxinming with a guide to Ch'an practice by Master Sheng-Yen
+description: The phrase 'faith in mind' contains the two meanings of 'believing in' and 'realizing' the mind. Faith in mind is the belief that we have a fundamental unmoving, unchanging mind. This mind is precisely Buddha mind. <br><br>This document was obtained from [Terebess Online Asia](https://terebess.hu/english/hsin3.html).
 author:
   - name: 鑑智僧璨 Jianzhi Sengcan (529-613)
   - name: 聖嚴 Master Sheng-Yen (1931-2009)
-abstract: |
-  _"The phrase 'faith in mind' contains the two meanings of 'believing in' and 'realizing' the mind. Faith in mind is the belief that we have a fundamental unmoving, unchanging mind. This mind is precisely Buddha mind."_ - Master Sheng-Yen. <br><br>This document was obtained from [Terebess Online Asia](https://terebess.hu/english/hsin3.html).
 date: 2026-01-04
-brand:
-  color:
-    primary: "#800000"
+image: images/landscape.jpg
 format:
   closeread-html:
     toc: true
-    grid:
-      margin-width: 350px
-    mainfont: ET Book
-    fontsize: 13pt
     cr-section:
       layout: "overlay-left"
     cr-style:
@@ -26,8 +19,6 @@ format:
   typst:
     papersize: a4
     toc: true
-reference-location: margin
-citation-location: margin
 ---
 
 # Preface
@@ -37,7 +28,9 @@ citation-location: margin
 Master Sheng-yen offers a guide to Ch'an practice based on the poem *Faith in Mind*. His words are transcribed from lectures given during a series of retreats spanning several years.
   
 > _"Since the talks were given within the context of intensive meditation practice, I did not adopt a scholarly point of view or analytical approach. It is not a formal commentary on the text; rather, I use the poem as a taking-off point to inspire the practitioner and deal with certain issues that arise during the course of practice."_
-  
+
+> _"The phrase 'faith in mind' contains the two meanings of 'believing in' and 'realizing' the mind. Faith in mind is the belief that we have a fundamental unmoving, unchanging mind. This mind is precisely Buddha mind."_
+
 # Introduction
 
 In the records of Ch'an masters, there is no full account of the life of Seng Ts'an, the Third Patriarch, who died in A.D. 606. He is mentioned, however, in the T'ang dynasty (618-907) *Kao Seng Chua* (Biographies of Eminent Monks) written by master Fa Ts'ung; "After Ch'an master (Hui) K'o, there was Ch'an master (Seng) Ts'an." The *Leng Ch'ieh Shih Tzu Chi* (Records of the Masters of the Lankavatara Sutra), which contains early historical material of the Ch'an school, says that after entering retreat in the mountains Seng Ts'an never emerged, nor did he ever write about or transmit the Dharma. This statement is problematic considering that the Sui dynasty history, in *Er Shih Wu Shih* (The Twenty-five History Books) states that in 592 he transmitted the Dharma to Tao Hsin, the Fourth Patriarch. It also calls into question the authorship of the poem *Faith in Mind*, which has historically been attributed to Seng Ts'an. Contemporary scholars doubt whether he was, in fact, the author. Niu T'ou Fa Jung, a disciple of Tao Hsin, wrote a poem entitled *Song of Mind*. Noticing the similarity between the two poems, some suggest that *Faith in Mind* was actually written after the time of the Sixth Patriarch, Hui Neng, as an improved, condensed version of *Song of Mind*. The thought expressed in *Faith in Mind* is indeed better organized, more concise and seems complete compared to Niu T'ou's poem.

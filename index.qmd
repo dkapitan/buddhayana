@@ -1,6 +1,45 @@
 ---
-title: "Buddhayana: musings of a modern household practitioner"
+title: Buddhayana
+subtitle: musings of a modern household practitioner 
+sidebar: false
+image: images/dk-and-cnr.jpg
+about:
+    id: hero
+    template: trestles
+    image-shape: round
+    links:
+    - icon: bluesky
+    #   text: bluesky
+      href: https://dkapitan.bsky.social
+    - icon: github
+    #   text: Github
+      href: https://github.com/dkapitan/buddhayana
+    - icon: linkedin
+    #   text: LinkedInd
+      href: https://linkedin.com/in/dkapitan
+listing:
+    id: listing-homepage
+    type: grid
+    grid-columns: 2
+    contents:
+        - xinxinming.qmd
+        - sutras.qmd
+        - gampopa/index.qmd
+
 ---
 
-![](images/dk-and-cnr.jpg)
+<br><br>
 
+::: {#hero}
+Ever since I was a child, I have been drawn to buddhism. I was born in Jakarta, Indonesia, and was fascinated by the Borobudur ever since I was a kid. I recall wanting to join a sangha in the Netherlands in my late teens, but I never dared to take that step.
+
+It wasn't until much later that a good friend of mine put me in touch with Nalandabodhi. I joined the Dutch sangha in 2013, took my vows with Dzogchen Ponlop Rinpoche, later also with Chokyi Nyima Rinponche and I have been practising ever since. With the usual ups and downs, of course.
+
+These pages contain my personal musings: texts that inspire me, reflections on the buddhadharma and what have you. I wrote this with the intention to inspire others to explore the buddhayana. I hope it is of benefit to you.
+
+:::
+
+<br><br><br><br>
+
+::: {#listing-homepage}
+:::
