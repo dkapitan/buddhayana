@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Following Gampopa"
+  title: "Buddhayana"
   sidebar:
     logo: /images/green-buddhist-bodhi-leaf-removebg-preview.png
     style: docked  
@@ -17,6 +17,7 @@ website:
           - four-dharmas-gampopa/dharma-progress-along-path.qmd
           - four-dharmas-gampopa/path-clarify-confusion.qmd
           - four-dharmas-gampopa/confusion-dawn-as-wisdom.qmd
+      - xinxinming.qmd
       - sutras.qmd
       - about.qmd
 format:
