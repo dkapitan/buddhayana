@@ -1,0 +1,21 @@
+---
+title: Tantra in Indonesia
+subtitle: Exploring my karmic links with the buddhayana  
+image: images/1987-buddha-dan-borobudur.jpg
+about:
+    id: hero
+    template: jolla
+    image-shape: round        
+
+---
+
+<br><br>
+
+::: {#hero}
+A story to tell on the [:Borobudur](https://en.wikipedia.org/wiki/Borobudur), the [:Prajnaparamita of Java](https://en.wikipedia.org/wiki/Prajnaparamita_of_Java) and how quite a few Indonesian words like _sila_ and _dana_ are in fact perfections to be practiced.
+:::
+
+<br><br><br><br>
+
+::: {#listing-homepage}
+:::

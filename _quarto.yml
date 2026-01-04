@@ -19,6 +19,7 @@ website:
           - gampopa/confusion-dawn-as-wisdom.qmd
       - xinxinming.qmd
       - sutras.qmd
+      - indonesia.qmd
 format:
   html:  
     toc: true
