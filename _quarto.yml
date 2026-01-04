@@ -3,16 +3,6 @@ project:
 
 website:
   title: "Buddhayana"
-  # navbar:
-  #   right:
-  #       - text: "Gampopa"
-  #         href: gampopa/index.qmd
-  #         menu:
-  #           - gampopa/mind-one-with-dharma.qmd
-  #           - gampopa/dharma-progress-along-path.qmd
-  #           - gampopa/path-clarify-confusion.qmd
-  #           - gampopa/confusion-dawn-as-wisdom.qmd
-  #       - xinxinming.qmd
   sidebar:
     logo: logo.png
     style: floating
@@ -29,7 +19,6 @@ website:
           - gampopa/confusion-dawn-as-wisdom.qmd
       - xinxinming.qmd
       - sutras.qmd
-      - about.qmd
 format:
   html:  
     toc: true
