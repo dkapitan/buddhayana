@@ -3,8 +3,10 @@ project:
 
 website:
   title: "Buddhayana"
+  reader-mode: true
   sidebar:
     logo: logo.png
+    title: "<b>Buddhayana:</b> musings of a modern household practitioner"
     style: floating
     search: true
     collapse-level: 1
