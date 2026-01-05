@@ -5,7 +5,7 @@ sidebar: false
 image: images/dk-and-cnr.jpg
 about:
     id: hero
-    template: trestles
+    template: jolla
     image-shape: round
     links:
     - icon: bluesky
