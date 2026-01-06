@@ -2,7 +2,7 @@
 title: " Faith in Mind"
 shorttitle: Faith in Mind
 subtitle: 信心銘 Xinxinming with a guide to Ch'an practice by Master Sheng-Yen
-description: The phrase 'faith in mind' contains the two meanings of 'believing in' and 'realizing' the mind. Faith in mind is the belief that we have a fundamental unmoving, unchanging mind. This mind is precisely Buddha mind. <br><br>The original document was obtained from the [Western Chan Fellowship](https://westernchanfellowship.org/fileadmin/user_upload/publications/booklets/Faith_in_Mind.pdf).
+description: One of may favourite dharma poems. The phrase 'faith in mind' contains the two meanings of 'believing in' and 'realizing' the mind. Faith in mind is the belief that we have a fundamental unmoving, unchanging mind. This mind is precisely Buddha mind. <br><br>The original document was obtained from the [Western Chan Fellowship](https://westernchanfellowship.org/fileadmin/user_upload/publications/booklets/Faith_in_Mind.pdf).
 author:
   - name: 鑑智僧璨 Jianzhi Sengcan (529-613)
   - name: 聖嚴 Master Sheng-Yen (1931-2009)

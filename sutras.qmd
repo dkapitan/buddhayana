@@ -1,7 +1,7 @@
 ---
 title: Selected sutras
 description: |
-    The Jewel Ornament of Precious Liberation contains many references to specific verses in the sutras. This page contains links to translations of these sutras.
+    There are thousands of Buddhist sutras, spanning many vehicles, disciplines and traditions. Below the list of sutras that I have come across over the years and which I think are worth highlighting.
 image: /images/sutra.jpg
 ---
 
