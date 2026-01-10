@@ -19,8 +19,9 @@ website:
           - gampopa/dharma-progress-along-path.qmd
           - gampopa/path-clarify-confusion.qmd
           - gampopa/confusion-dawn-as-wisdom.qmd
-      - xinxinming.qmd
       - sutras.qmd
+      - xinxinming.qmd
+      - earth-touching.qmd
       - indonesia.qmd
 format:
   html:  

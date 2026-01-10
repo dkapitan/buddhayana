@@ -1,0 +1,139 @@
+---
+title: Earth Touching
+author: Thich Nhat Hahn
+description: |
+    _"It is said that grief is actually love 一 but with nowhere to go,"_ writes Ocean Vuong in the introduction of the 2022 edition of _Call Me By My True Names_. Thich Nhat Hahn had just passed on earlier that year on January 22. This poem speaks to me because of the tranquility it exudes, the space it creates, remembering us we can always return to Mother Earth.<br>The pictures are from my trip to Nepal in November 2024.
+image: ./images/tek-chok-ling-oblong.jpg
+format:
+  closeread-html:
+    # remove-header-space: true
+    toc: false
+    sidebar: false
+    cr-section:
+      layout: "overlay-left"
+    cr-style:
+      section-background-color: "#ffffff"
+      narrative-background-color-overlay: "#800000BB"
+      narrative-overlay-min-width: 2fr
+      narrative-sidebar-width: 2fr
+---
+
+
+::::{.cr-section}
+
+:::{#cr-image1}
+![](./images/tek-chok-ling.jpg)
+:::
+
+:::{#cr-image2}
+![](./images/nepal-bridge.jpg)
+:::
+
+:::{focus-on="cr-image1"}
+
+# Earth Touching
+
+| Here is the foot of a tree. 
+| Here is an empty, quiet place. 
+| Here is a cushion. 
+|
+| Brother, why don't you sit down? 
+| Sit upright. 
+| Sit with solidity. 
+| Sit in peace. 
+| Don't let your thoughts lift you up into the air. 
+| Sit so that you can really touch the Earth 
+| and be one with her. 
+| You may like to smile, brother. 
+| Earth will transmit to you her solidity, 
+| her peace, and her joy. 
+| With your mindful breathing, 
+| with your peaceful smile, 
+| you sustain the mudra of Earth Touching.
+|
+| There were times when you didn't do well. 
+| Sitting on Earth, but it was as if you were floating in the air,
+| you who used to go in circles in the triple world 
+| and be drawn into the ocean of illusion. 
+| But Earth is always patient 
+| and one-hearted. 
+| Earth is still waiting for you 
+| because Earth has been waiting for you 
+| during the last trillion lives. 
+| That is why she can wait for you for any other length of time.
+| She knows that finally you will come back to her one day.
+| She will welcome you 
+| always fresh and green, exactly like the first time,
+| because love never says, "This is the last";
+| because Earth is a loving mother. 
+| She will never stop waiting for you. 
+| 
+| Do go back to her, brother. 
+| You will be like that tree. 
+| The leaves, the branches, and the flowers of your soul 
+| will be fresh and green 
+| once you enter the mudra of Earth Touching. 
+
+:::
+
+:::{focus-on="cr-image2"}
+| The empty path welcomes you, sister,
+| fragrant with grass and little flowers,
+| the path paved with paddy fields 
+| still bearing the marks of your childhood
+| and the fragrance of mother's hand.
+| Walk leisurely, peacefully. 
+| Your feet should deeply touch the Earth. 
+| Don't let your thoughts lift you up into the air, sister. 
+| Go back to the path every moment. 
+| The path is your dearest friend. 
+| She will transmit to you 
+| her solidity, 
+| her peace. 
+| 
+| With your deep breathing, 
+| you sustain the mudra of Earth Touching.
+| Walk as if you were kissing the Earth with your feet,
+| as if you were massaging the Earth. 
+| The marks left by your feet 
+| will be like the marks of an emperor's seal
+| calling for Now to go back to Here; 
+| so that life will be present; 
+| so that the blood will bring the color of love to your face; 
+| so that the wonders of life will be manifested, 
+| and all afflictions will be transformed into 
+| peace and joy. 
+| 
+| There were times when you did not succeed, sister. 
+| Walking on the empty path, but you were floating in the air,
+| because you used to get lost in samsara 
+| and drawn into the world of illusion. 
+| But the beautiful path is always patient. 
+| It is always waiting for you to come back,
+| that path which is so familiar to you,
+| that path which is so faithful. 
+| It knows deeply that you will come back one day. 
+| It will be joyful to welcome you back. 
+| It will be as fresh and as beautiful as the first time. 
+| Love never says, "This is the last." 
+| 
+| That path is you, sister. 
+| That is why it will never be tired of waiting. 
+| Whether it is covered now with red dust 
+| or with autumn leaves 
+| or icy snow一
+| do go back to the path, sister, 
+| because I know 
+| you will be like that tree, 
+| the leaves, the trunk, the branches, 
+| and the blossoms of your soul 
+| will be fresh and beautiful, 
+| once you enter the mudra of Earth Touching. 
+
+<br>_by Thich Nhat Hahn,
+<br>originally published in **Call Me By My True Names (1999)**_
+
+:::
+::::
+
+_back to [homepage](./index.qmd)_

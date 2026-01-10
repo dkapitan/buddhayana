@@ -55,6 +55,10 @@ Verhef mijn hart zodat verwarring zich openbaart als wijsheid.
 
 ## Dedication
 
+:::{.panel-tabset}
+
+## English
+
 #### **བསོད་ནམས་འདི་ཡིས་ཐམས་ཅད་གཟིགས་པ་ཉིད། །**
 `sö nam di yi tham chè siek pa nyi`<br>
 By this merit, may we attain omniscience,
@@ -70,3 +74,22 @@ All wanderers from the ocean of existence
 #### **སྲིད་པའི་མཚོ་ལས་འགྲོ་བ་སྒྲོལ་བར་ཤོག**
 `si pay tso le dro wa dröl war shok`<br>
 Churned by great waves of birth, age, sickness, and death.
+
+## Nederlands
+
+#### **བསོད་ནམས་འདི་ཡིས་ཐམས་ཅད་གཟིགས་པ་ཉིད། །**
+`sö nam di yi tham chè siek pa nyi`<br>
+Moge wij door deze verdienste alwetend worden,
+
+#### **ཐོབ་ནས་ཉེས་པའི་དགྲ་རྣམས་ཕམ་བྱས་ནས། །**
+`thob ne nyè pay dra nam pham che ne`<br>
+Moge het wandaden tegen gaan, en iedereen bevrijden
+
+#### **སྐྱེ་རྒ་ན་འཆིའི་རྦ་རླབས་འཁུག་པ་ཡི། །**
+`kyè ga na chii bar lap trüg pa yi`<br>
+Die rondzwerft in de oceaan van het bestaan
+
+#### **སྲིད་པའི་མཚོ་ལས་འགྲོ་བ་སྒྲོལ་བར་ཤོག**
+`si pay tso le dro wa dröl war shok`<br>
+Vermalen door de eindeloze golven van geboorte, ouderdom, ziekte en dood.
+:::
