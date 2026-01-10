@@ -2,7 +2,7 @@
 title: Earth Touching
 author: Thich Nhat Hahn
 description: |
-    _"It is said that grief is actually love 一 but with nowhere to go,"_ writes Ocean Vuong in the introduction of the 2022 edition of _Call Me By My True Names_. Thich Nhat Hahn had just passed on earlier that year on January 22. This poem speaks to me because of the tranquility it exudes, the space it creates, remembering us we can always return to Mother Earth.<br>The pictures are from my trip to Nepal in November 2024.
+    _"It is said that grief is actually love 一 but with nowhere to go,"_ writes Ocean Vuong in the introduction of the 2022 edition of _Call Me By My True Names_. Thich Nhat Hahn had just passed on earlier that year on January 22. This poem speaks to me because of the tranquility it exudes, the space it creates, remembering us we can always return to Mother Earth.<br><br>The pictures are from my trip to Nepal in November 2024.
 image: ./images/tek-chok-ling-oblong.jpg
 format:
   closeread-html:

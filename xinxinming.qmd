@@ -6,7 +6,6 @@ description: One of may favourite dharma poems. The phrase 'faith in mind' conta
 author:
   - name: 鑑智僧璨 Jianzhi Sengcan (529-613)
   - name: 聖嚴 Master Sheng-Yen (1931-2009)
-date: 2026-01-04
 image: images/landscape.jpg
 format:
   closeread-html:
