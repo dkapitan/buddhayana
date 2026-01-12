@@ -1,6 +1,6 @@
 typography:
   fonts:
-    - family: ET Book
+    - family: ETBookOT
       source: file
       files:
         - path: fonts/et-book-roman-line-figures.woff
@@ -16,8 +16,8 @@ typography:
       source: google
     - family: PT Mono
       source: google
-  base: ET Book
-  headings: ET Book
+  base: ETBookOT
+  headings: ETBookOT
   monospace-inline:
     family: PT Mono
     color: "#800000"

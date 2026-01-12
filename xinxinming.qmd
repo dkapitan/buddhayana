@@ -15,6 +15,9 @@ format:
     cr-style:
       section-background-color: "#ffffff"
       narrative-background-color-overlay: "#800000BB"
+  typst: default
+reference-location: margin
+citation-location: margin
 ---
 
 # Preface
