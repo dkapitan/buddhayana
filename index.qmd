@@ -21,11 +21,12 @@ listing:
     id: listing-homepage
     type: grid
     grid-columns: 2
+    sort: false
     contents:
-        - gampopa/index.qmd
-        - sutras.qmd
         - xinxinming.qmd
         - earth-touching.qmd
+        - gampopa/index.qmd
+        - sutras.qmd
         - indonesia.qmd
         - tai-chi/index.qmd
         
