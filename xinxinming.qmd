@@ -16,6 +16,7 @@ format:
       section-background-color: "#ffffff"
       narrative-background-color-overlay: "#800000BB"
   typst: default
+  epub: default
 ---
 
 # Preface
