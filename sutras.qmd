@@ -1,13 +1,13 @@
 ---
-title: Selected sutras
+title: Selected scriptures and treatises
 description: |
-    There are thousands of Buddhist sutras, spanning many vehicles, disciplines and traditions. Below the list of sutras that I have come across over the years and which I think are worth highlighting.
+    There are thousands of Buddhist texts, spanning many vehicles, disciplines and traditions. Below is a selection that I have come across over the years and which I think are worth highlighting.
 image: /images/sutra.jpg
 ---
 
-:::: {.columns}
-::: {.column width="50%"}
-### Kangyur (Canonical Scriptures)
+---
+
+### Kangyur (canonical scriptures)
 
 - [Collection of Aphorisms. _Udānavarga_](https://www2.hf.uio.no/polyglotta/index.php?page=fulltext&vid=71&view=fulltext)
 - [The Stem Array. _Gaṇḍa­vyūha_](https://84000.co/translation/toh44-45)
@@ -15,12 +15,12 @@ image: /images/sutra.jpg
 - [Lotus Sutra. _Saddharma­puṇḍarīka_](https://84000.co/translation/toh113)
 - [The Characteristic of Nonself. _Anattalakkhaṇasutta_](https://suttacentral.net/sn22.59/en/sujato?lang=en&layout=plain&notes=asterisk&highlight=false&script=latin)
 
-:::
+---
 
-::: {.column width="50%"}
-### Tengyur (Canonical Treatises)
+### Tengyur (canonical treatises)
 
 - [Letter to a Friend](https://studybuddhism.com/en/tibetan-buddhism/original-texts/sutra-texts/letter-to-a-friend)
-:::
-::::
+
+---
+
 

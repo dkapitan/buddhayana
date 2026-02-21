@@ -1,0 +1,11 @@
+---
+title: "Mindfulness of the body"
+subtitle: "T’ai Chi through the lens of the Satipatthana sutta"
+description: |
+    Originally published in <a href=https://westernchanfellowship.org/dharma/new-chan-forum/new-chan-forum-issue/new-chan-forum-68/>New Chan Forum 68</a>. 
+author: Jos Hadfield
+page-layout: full
+date: 2025-12-01
+---
+
+{{< pdf "./tai-chi-mindfulness-body.pdf" width=100% height=800 >}}

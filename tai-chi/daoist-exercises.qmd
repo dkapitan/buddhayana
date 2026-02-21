@@ -3,6 +3,7 @@ title: "24 Daoist Exercises"
 subtitle: As taught by the International Tai Chi Chuan Association
 author: Daniel Kapitan
 date: 2025-10-11
+page-layout: full
 ---
 
 These exercises are done as a warming up, prior to doing the actual Tai Chi form. I collated the list from the ITCCA, the videos are provided by [Tai Chi Serbia](www.youtube.com/@TaiChiSerbia).

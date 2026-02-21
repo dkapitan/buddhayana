@@ -27,6 +27,7 @@ website:
         href: tai-chi/index.qmd
         contents:
           - tai-chi/daoist-exercises.qmd
+          - tai-chi/tai-chi-mindfulness-body.qmd
 
 format:
   html:  
