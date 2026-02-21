@@ -27,6 +27,7 @@ listing:
         - xinxinming.qmd
         - earth-touching.qmd
         - indonesia.qmd
+        - tai-chi/index.qmd
         
 
 ---

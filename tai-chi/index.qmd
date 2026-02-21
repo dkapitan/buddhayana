@@ -1,0 +1,26 @@
+---
+title: "Orignal Yang Style Tai Chi"
+subtitle: As taught by the International Tai Chi Chuan Association
+author: Daniel Kapitan
+image: ../images/white-crane-banner.png
+date: 2025-10-11
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br><br>
+In January 2025, I started practicing original Yang Style Tai Chi, the family-style of the Yang Family as promoted by the International Tai Chi Chaun Association (ITCCA). Head of the ITCCA is Master Chu King Hung, disciple of Yang Shou Chung. He transmits the original Yang family Tai Chi Chuan through his own disciples and many qualified teachers all over Europe, one of which is [Stefan Diderich](https://www.itcca.nl/rotterdam/docent), with whom I take classes.
+
+I approach tai chi as 'meditation in motion' and feel it is a nice complement to sitting. This section contais a selection of materials to support my practice, particularly in getting the basics right. It is intended as an aid, not as a replacement for proper training.
+
+_Image by [ITCCA Maastricht](https://www.taichi-maastricht.nl/)._
+:::
+
+::: {.column width="50%"}
+![](../images/white-crane.jpg)
+:::
+::::
+
+
+

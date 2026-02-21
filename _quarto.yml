@@ -12,6 +12,10 @@ website:
     collapse-level: 1
     background: white
     contents:
+      - xinxinming.qmd
+      - earth-touching.qmd
+      - sutras.qmd
+      - indonesia.qmd
       - section: Four Dharmas of Gampopa
         href: gampopa/index.qmd
         contents:
@@ -19,10 +23,11 @@ website:
           - gampopa/dharma-progress-along-path.qmd
           - gampopa/path-clarify-confusion.qmd
           - gampopa/confusion-dawn-as-wisdom.qmd
-      - sutras.qmd
-      - xinxinming.qmd
-      - earth-touching.qmd
-      - indonesia.qmd
+      - section: Yang-style tai chi
+        href: tai-chi/index.qmd
+        contents:
+          - tai-chi/daoist-exercises.qmd
+
 format:
   html:  
     toc: true
