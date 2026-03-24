@@ -1,23 +1,23 @@
 typography:
   fonts:
-    - family: ETBookOT
-      source: file
-      files:
-        - path: fonts/et-book-roman-line-figures.woff
-          weight: 400
-          style: normal
-        - path: fonts/et-book-display-italic-old-style-figures.woff
-          weight: 400
-          style: italic
-        - path: fonts/et-book-bold-line-figures.woff
-          weight: 700
-          style: normal
-    - family: PT Sans
+    # - family: ETBookOT
+    #   source: file
+    #   files:
+    #     - path: fonts/et-book-roman-line-figures.woff
+    #       weight: 400
+    #       style: normal
+    #     - path: fonts/et-book-display-italic-old-style-figures.woff
+    #       weight: 400
+    #       style: italic
+    #     - path: fonts/et-book-bold-line-figures.woff
+    #       weight: 700
+    #       style: normal
+    - family: Crimson Text
       source: google
     - family: PT Mono
       source: google
-  base: ETBookOT
-  headings: ETBookOT
+  base: Crimson Text
+  headings: Crimson Text
   monospace-inline:
     family: PT Mono
     color: "#800000"
