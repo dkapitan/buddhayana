@@ -3,6 +3,8 @@ title: "Following Gampopa"
 description: |
     The Kagyu lineage and the teachings of Gampopa are kind of my home base. _The Four Dharmas of Gampopa_ are a pith instruction in just four lines that encompass the full extent of the Buddha’s teachings.
 image: /images/gampopa.webp
+author: Daniel Kapitan
+date: 2024-09-09
 ---
 
 ### The Four Dharmas of Gampopa
