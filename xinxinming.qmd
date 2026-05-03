@@ -21,6 +21,8 @@ format:
       - typst-template.typ
   epub: default
 format-links: false
+language:
+  other-links-title: "Download as"
 other-links:
   - text: pdf
     href: xinxinming.pdf
