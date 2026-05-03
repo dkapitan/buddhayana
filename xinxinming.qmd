@@ -20,6 +20,14 @@ format:
     template-partials:
       - typst-template.typ
   epub: default
+format-links: false
+other-links:
+  - text: pdf
+    href: xinxinming.pdf
+    icon: file-pdf
+  - text: e-book
+    href: xinxinming.epub
+    icon: book
 ---
 
 # Preface
