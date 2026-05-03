@@ -3,10 +3,12 @@ project:
 
 website:
   title: "Buddhayana"
+  site-url: https://buddhayana.org
+  repo-url: https://github.com/buddhayana/buddhayana.github.io
   reader-mode: true
   sidebar:
     logo: logo.png
-    title: "<b>Buddhayana:</b> musings of a modern household practitioner"
+    title: "Buddhayana: musings of a modern household practitioner"
     style: floating
     search: true
     collapse-level: 1
