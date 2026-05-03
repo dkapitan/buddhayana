@@ -1,1 +1,1 @@
-Sitemap: https://dkapitan.github.io/buddhayana/sitemap.xml
+Sitemap: https://buddhayana.github.io/sitemap.xml
