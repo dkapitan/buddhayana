@@ -16,7 +16,7 @@ format:
       section-background-color: "#ffffff"
       narrative-background-color-overlay: "#800000BB"
   typst:
-    cjk-font: "Hiragino Sans GB"
+    cjk-font: "Noto Serif CJK SC"
     template-partials:
       - typst-template.typ
   epub: default
