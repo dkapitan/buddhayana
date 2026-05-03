@@ -17,25 +17,25 @@ If you find this resource helpful, please consider [donating](https://www.buddhi
 
 ::: {.panel-tabset}
 ## Anatomy
-{{< audio file="/satipatthana/meditation-1.mp3" download-link="true">}}
+{{< audio file="/early-buddhism/meditation-1.mp3" download-link="true">}}
 
 ## Elements
-{{< audio file="/satipatthana/meditation-2.mp3" download-link="true">}}
+{{< audio file="/early-buddhism/meditation-2.mp3" download-link="true">}}
 
 ## Death
-{{< audio file="/satipatthana/meditation-3.mp3" download-link="true">}}
+{{< audio file="/early-buddhism/meditation-3.mp3" download-link="true">}}
 
 ## Feeling
-{{< audio file="/satipatthana/meditation-4.mp3" download-link="true">}}
+{{< audio file="/early-buddhism/meditation-4.mp3" download-link="true">}}
 
 ## Mind
-{{< audio file="/satipatthana/meditation-5.mp3" download-link="true">}}
+{{< audio file="/early-buddhism/meditation-5.mp3" download-link="true">}}
 
 ## Hindrances
-{{< audio file="/satipatthana/meditation-6.mp3" download-link="true">}}
+{{< audio file="/early-buddhism/meditation-6.mp3" download-link="true">}}
 
 ## Awakening
-{{< audio file="/satipatthana/meditation-7.mp3" download-link="true">}}
+{{< audio file="/early-buddhism/meditation-7.mp3" download-link="true">}}
 :::
 
 
