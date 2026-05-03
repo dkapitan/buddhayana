@@ -16,6 +16,11 @@ website:
       - earth-touching.qmd
       - sutras.qmd
       - indonesia.qmd
+      - section: Early Buddhism
+        href: early-buddhism/index.qmd
+        contents:
+        - early-buddhism/meditation-analayo.qmd
+        - early-buddhism/early-buddhist-meditation.qmd
       - section: Four Dharmas of Gampopa
         href: gampopa/index.qmd
         contents:

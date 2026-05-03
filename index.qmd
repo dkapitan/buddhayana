@@ -25,10 +25,14 @@ listing:
     contents:
         - xinxinming.qmd
         - earth-touching.qmd
+        - early-buddhism/meditation-analayo.qmd
+        - early-buddhism/early-buddhist-meditation.qmd
+        - tai-chi/index.qmd
         - gampopa/index.qmd
         - sutras.qmd
         - indonesia.qmd
-        - tai-chi/index.qmd
+        
+        
         
 
 ---

@@ -1,0 +1,27 @@
+---
+title: "Early Buddhist meditation "
+description: |
+    The term “early Buddhism” refers to approximately the first two centuries in the development of Buddhist thought and practice, from about the time when the Buddha would have lived until the reign of the Indian emperor Asoka in the third century before the Common Era. A series of five explorations on mindfulness in early Buddhist meditation: the immeasuarables, non-dual mindfulness, the four establishments of mindfulness, and mindfulness of breathing. Based on these altogether four topics, the final contribution in the series concerns dimensions of mindfulness, in the sense of attempting to distill from these practices, and from other relevant information in the textual sources of early Buddhism, information on central functions, and characteristics of mindfulness.
+author: Bhikku Anālayo
+image: /images/first-sermon.png
+date: 2023-11-27
+---
+
+::: {.panel-tabset}
+
+## Immeasurables
+{{< pdf "./analayo2023early-buddhist-meditation-part-1.pdf" width=100% height=800 >}}
+
+## Non-dual mindfulness
+{{< pdf "./analayo2023early-buddhist-meditation-part-2.pdf" width=100% height=800 >}}
+
+## Four foundations of mindfulness
+{{< pdf "./analayo2023early-buddhist-meditation-part-3.pdf" width=100% height=800 >}}
+
+## Mindfulness of breathing
+{{< pdf "./analayo2023early-buddhist-meditation-part-4.pdf" width=100% height=800 >}}
+
+## Dimensions of mindfulness
+{{< pdf "./analayo2023early-buddhist-meditation-part-5.pdf" width=100% height=800 >}}
+
+:::

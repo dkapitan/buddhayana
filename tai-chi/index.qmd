@@ -2,7 +2,7 @@
 title: "Orignal Yang Style Tai Chi"
 subtitle: As taught by the International Tai Chi Chuan Association
 author: Daniel Kapitan
-image: ../images/white-crane-banner.png
+image: /images/white-crane-banner.png
 date: 2025-10-11
 ---
 

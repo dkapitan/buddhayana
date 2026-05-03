@@ -5,7 +5,7 @@ description: |
 image: /images/gampopa.webp
 ---
 
-## The Four Dharmas of Gampopa
+### The Four Dharmas of Gampopa
 
 :::{.panel-tabset}
 
@@ -53,7 +53,7 @@ Verhef mijn hart zodat verwarring zich openbaart als wijsheid.
 [^2]: _jin gyi lab_ betekent letterlijk transformeren, verheffen, verlichten. Voor de Nederlandse vertaling heb ik gekozen voor vier verschillende woordspelingen hierop.
 :::
 
-## Dedication
+### Dedication
 
 :::{.panel-tabset}
 

@@ -1,0 +1,45 @@
+---
+title: "Satipaṭṭhāna meditation"
+subtitle: Guided meditation by Bhikku Analayo on the seven spokes of Satipaṭṭhāna.
+author: Bhikku Anālayo
+date: 2026-05-03
+image: /images/Gal_Viharaya_02.jpg
+---
+
+![](/images/satipatthana-analayo.png)
+
+Satipaṭṭhāna meditation is the Buddha’s foundational teaching on mindfulness. Commonly called the four establishments or the four foundations of mindfulness, its contemplations explore the nature of body, feeling-tone, mind, and dharmas.
+
+In this freely offered series of seven audio meditations, Bhikkhu Anālayo provides sequential guided instructions for satipaṭṭhāna meditation, based on academic research and practice instructions as presented in his text - [Satipaṭṭhāna Meditation: A Practice Guide](https://buddhistuniversity.net/content/monographs/satipatthana-meditation-practice-guide_analayo) (Windhorse Publications, 2018).
+
+If you find this resource helpful, please consider [donating](https://www.buddhistinquiry.org/donate/) to the Barre Center for Buddhist Studies and Bhikkhu Anālayo such that they can continue to offer the precious, liberating teachings of the Buddha.
+
+
+::: {.panel-tabset}
+## Anatomy
+{{< audio file="/satipatthana/meditation-1.mp3" download-link="true">}}
+
+## Elements
+{{< audio file="/satipatthana/meditation-2.mp3" download-link="true">}}
+
+## Death
+{{< audio file="/satipatthana/meditation-3.mp3" download-link="true">}}
+
+## Feeling
+{{< audio file="/satipatthana/meditation-4.mp3" download-link="true">}}
+
+## Mind
+{{< audio file="/satipatthana/meditation-5.mp3" download-link="true">}}
+
+## Hindrances
+{{< audio file="/satipatthana/meditation-6.mp3" download-link="true">}}
+
+## Awakening
+{{< audio file="/satipatthana/meditation-7.mp3" download-link="true">}}
+:::
+
+
+
+
+
+ 
