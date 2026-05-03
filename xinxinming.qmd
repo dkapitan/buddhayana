@@ -2,7 +2,7 @@
 title: "Faith in Mind"
 shorttitle: Faith in Mind
 subtitle: 信心銘 Xinxinming with a guide to Ch'an practice by Master Sheng-Yen
-description: One of may favourite dharma poems. The phrase 'faith in mind' contains the two meanings of 'believing in' and 'realizing' the mind. Faith in mind is the belief that we have a fundamental unmoving, unchanging mind. This mind is precisely Buddha mind. <br><br>The original document was obtained from the [Western Chan Fellowship](https://westernchanfellowship.org/fileadmin/user_upload/publications/booklets/Faith_in_Mind.pdf).
+description: One of may favourite dharma poems. The phrase 'faith in mind' contains the two meanings of 'believing in' and 'realizing' the mind. Faith in mind is the belief that we have a fundamental unmoving, unchanging mind. This mind is precisely Buddha mind. <br/><br/>The original document was obtained from the [Western Chan Fellowship](https://westernchanfellowship.org/fileadmin/user_upload/publications/booklets/Faith_in_Mind.pdf).
 author:
   - name: 鑑智僧璨 Jianzhi Sengcan (529-613)
   - name: 聖嚴 Master Sheng-Yen (1931-2009)
@@ -15,7 +15,10 @@ format:
     cr-style:
       section-background-color: "#ffffff"
       narrative-background-color-overlay: "#800000BB"
-  typst: default
+  typst:
+    cjk-font: "Hiragino Sans GB"
+    template-partials:
+      - typst-template.typ
   epub: default
 ---
 
@@ -68,7 +71,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | Without recognizing the mysterious principle
 | It is useless to practice quietude.
 
-<br>
+<br/>
 
 | The Way is perfect like great space,
 | Without lack, without excess.
@@ -83,7 +86,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | Merely stagnating in duality,
 | How can you recognize oneness?
 
-<br>
+<br/>
 
 | If you fail to penetrate oneness,
 | Both places lose their function.
@@ -102,7 +105,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | No need to seek the real;
 | Just extinguish your views.
 
-<br>
+<br/>
 
 | Do not abide in dualistic views;
 | Take care not to seek after them.
@@ -125,7 +128,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | Not seeing fine or coarse,
 | How can there be any bias?
 
-<br>
+<br/>
 
 | The Great Way is broad,
 | Neither easy nor difficult.
@@ -136,7 +139,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | Let it go and be spontaneous,
 | Experience no going or staying.
 
-<br>
+<br/>
 
 | Accord with your nature, unite with the Way,
 | Wander at ease, without vexation.
@@ -145,7 +148,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | It is not good to weary the spirit.
 | Why alternate between aversion and affection?
 
-<br>
+<br/>
 
 | If you wish to enter the one vehicle,
 | Do not be repelled by the sense realm.
@@ -158,7 +161,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | Using mind to cultivate mind
 | Is this not a great mistake?
 
-<br>
+<br/>
 
 | The erring mind begets tranquillity and confusion;
 | In enlightenment there are no likes or dislikes.
@@ -169,7 +172,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | Gain and loss, right and wrong
 | Discard them all at once.
 
-<br>
+<br/>
 
 | If the eyes do not close in sleep,
 | All dreams will cease of themselves.
@@ -182,7 +185,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | When the subject disappears,
 | There can be no measuring or comparing.
 
-<br>
+<br/>
 
 | Stop activity and there is no activity;
 | When activity stops, there is no rest.
@@ -191,7 +194,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | In the very ultimate,
 | Rules and standards do not exist.
 
-<br>
+<br/>
 
 | Develop a mind of equanimity,
 | And all deeds are put to rest.
@@ -206,7 +209,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | In the Dharma Realm of true suchness,
 | There is no other, no self.
 
-<br>
+<br/>
 
 | To accord with it is vitally important;
 | Only refer to not-two.
@@ -217,7 +220,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | This principle is neither hurried nor slow
 | One thought for ten thousand years.
 
-<br>
+<br/>
 
 | Abiding nowhere yet everywhere,
 | The ten directions are right before you.
@@ -230,7 +233,7 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | If it is not like this,
 | Then you must not preserve it.
 
-<br>
+<br/>
 
 | One is everything;
 | Everything is one.
@@ -239,12 +242,12 @@ The poem contains phrases that will later on assume importance in the Ts'ao Tung
 | Faith and mind are not two;
 | Non-duality is faith in mind.
 
-<br>
+<br/>
 
 | The path of words is cut off;
 | There is no past, no future, no present.
 
-<br>
+<br/>
 
 :::
 ::::
