@@ -17,7 +17,9 @@ typography:
     - family: PT Mono
       source: google
   base: Crimson Text
-  headings: Crimson Text
+  headings:
+    family: Crimson Text
+    weight: 500
   monospace-inline:
     family: PT Mono
     color: "#800000"
