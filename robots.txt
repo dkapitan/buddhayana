@@ -1,1 +1,1 @@
-Sitemap: https://buddhayana.github.io/sitemap.xml
+Sitemap: https://buddhayana.org/sitemap.xml
